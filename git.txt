@@ -1,0 +1,12 @@
+//Process to start Git command
+
+code . =>  open vs code
+git init => we have to initialised git first if you started first.
+ls la => insatall git hidden file.
+git add (fileName)=> add file first to staging.
+git Status => Check Git status.
+Touch (fileName) => Create a new file under this folder
+git add -A => add all file first to staging.
+git commit -m "commit message"=> commit a massage when modified.
+clear => clear all the thing.
+ 
