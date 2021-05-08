@@ -9,4 +9,5 @@ Touch (fileName) => Create a new file under this folder
 git add -A => add all file first to staging.
 git commit -m "commit message"=> commit a massage when modified.
 clear => clear all the thing.
- 
+git checkout (filename.extension) => Revert the changes file.
+git checkout -f => Revert the All Changes File in one click
